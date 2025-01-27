@@ -1,16 +1,39 @@
-### Hi there 👋
+### Olá! Eu sou Desenvolvedora Python👋
 
-<!--
-**87MarciaFonseca/87MarciaFonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<🌟 Sobre Mim
 
-Here are some ideas to get you started:
+Transitei da Engenharia de Produção para Análise e Desenvolvimento de Sistemas, focando em criar soluções tecnológicas para transformar dados em decisões estratégicas e automatizar processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💡 Missão: Alavancar tecnologia para resolver problemas complexos e impulsionar inovação em empresas de diversos setores.
+
+🔭 **Atualmente trabalho em**  
+Automação de processos e análise de dados com Python, integrando ferramentas como Power BI e SQL.
+
+🌱 **Estou aprendendo**  
+Frameworks Python avançados e técnicas de automação e análise de dados.
+
+👯 **Busco colaboração em**  
+Projetos de automação, análise de dados e otimização de sistemas.
+
+🤔 **Preciso de ajuda com**  
+Aprimorar habilidades em frameworks Python e integrar soluções de análise de dados.
+
+💬 **Pergunte-me sobre**  
+Automação, Python, Power BI, SQL e melhoria contínua.
+
+📫 **Como me contatar**  
+E-mail: seu-email@dominio.com | LinkedIn: [seu-linkedin]([https://www.linkedin.com/in/marcia-fonseca-b4975953))
+
+😄 **Pronomes**  
+Ela/Dela
+
+⚡ **Curiosidade**  
+Adoro otimizar processos e encontrar soluções criativas para aumentar a produtividade!
+
+🌐 Objetivo Estratégico
+
+💼 Desenvolver e implementar soluções tecnológicas e baseadas em dados para otimizar processos e apoiar a transformação digital nas organizações.
+
+
+🌟 Obrigado por visitar meu perfil! Explore meus projetos e vamos nos conectar...
 -->
