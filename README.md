@@ -22,7 +22,7 @@ Aprimorar habilidades em frameworks Python e integrar soluções de análise de 
 Automação, Python, Power BI, SQL e melhoria contínua.
 
 📫 **Como me contatar**  
- LinkedIn: [([https://www.linkedin.com/in/marcia-fonseca-b4975953))]
+ LinkedIn ::https://www.linkedin.com/in/marcia-fonseca-b4975953
 
 😄 **Pronomes**  
 Ela/Dela
