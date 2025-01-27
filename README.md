@@ -1,6 +1,6 @@
 ### Olá! Eu sou Desenvolvedora Python👋
 
-<🌟 Sobre Mim
+🌟 Sobre Mim
 
 Transitei da Engenharia de Produção para Análise e Desenvolvimento de Sistemas, focando em criar soluções tecnológicas para transformar dados em decisões estratégicas e automatizar processos.
 
@@ -36,4 +36,4 @@ Adoro otimizar processos e encontrar soluções criativas para aumentar a produt
 
 
 🌟 Obrigado por visitar meu perfil! Explore meus projetos e vamos nos conectar...
--->
+
