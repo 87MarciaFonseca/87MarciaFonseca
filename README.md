@@ -1,39 +1,63 @@
-### Olá! Eu sou Desenvolvedora Python👋
+# Marcia Fonseca
 
-🌟 Sobre Mim
+**Analista de TI | Microsoft 365 | Entra ID | Intune | ITSM | Infraestrutura | Automação e Dados Operacionais**
 
-Transitei da Engenharia de Produção para Análise e Desenvolvimento de Sistemas, focando em criar soluções tecnológicas para transformar dados em decisões estratégicas e automatizar processos.
+Sou Analista de TI com experiência em suporte N2, gestão de identidades Microsoft, infraestrutura, ITSM e melhoria contínua em ambientes de operação crítica. Minha atuação une sustentação técnica, organização de processos, documentação, segurança de acessos, automação e indicadores para dar mais rastreabilidade e confiabilidade às operações de TI.
 
-💡 Missão: Alavancar tecnologia para resolver problemas complexos e impulsionar inovação em empresas de diversos setores.
+Meu foco atual é atuar em ambientes corporativos que precisam estruturar suporte, identidades, dispositivos, processos ITSM, inventário, base de conhecimento e indicadores operacionais.
 
-🔭 **Atualmente trabalho em**  
-Automação de processos e análise de dados com Python, integrando ferramentas como Power BI e SQL.
+## Principais Frentes
 
-🌱 **Estou aprendendo**  
-Frameworks Python avançados e técnicas de automação e análise de dados.
+- **Microsoft 365 e IAM:** Entra ID, MFA, Acesso Condicional, RBAC, onboarding e offboarding.
+- **Gestão de endpoints:** Microsoft Intune, conformidade de dispositivos, políticas e padronização.
+- **ITSM e suporte N2:** GLPI, ServiceNow, incidentes, SLA, MTTR, FCR, POPs e base de conhecimento.
+- **Infraestrutura e redes:** Windows Server, Linux, pfSense, VPN, VLANs, TCP/IP, DNS e DHCP.
+- **Monitoramento e dados:** Zabbix, Grafana, Power BI, dashboards de SLA, ativos e acessos.
+- **Automação:** Power Automate, rotinas Microsoft 365, documentação técnica e fluxos de aprovação.
 
-👯 **Busco colaboração em**  
-Projetos de automação, análise de dados e otimização de sistemas.
+## Experiências que sustentam meu perfil
 
-🤔 **Preciso de ajuda com**  
-Aprimorar habilidades em frameworks Python e integrar soluções de análise de dados.
+**ADAE - Associação Duquecaxiense de Arquitetos e Engenheiros**
 
-💬 **Pergunte-me sobre**  
-Automação, Python, Power BI, SQL e melhoria contínua.
+Atuação em infraestrutura, Microsoft 365, identidades, comunicação digital, automação de rotinas e apoio à transformação digital da entidade.
 
-📫 **Como me contatar**  
- LinkedIn :https://www.linkedin.com/in/marcia-fonseca-b4975953
+**New Wave Tech - Projeto temporário**
 
-😄 **Pronomes**  
-Ela/Dela
+Auditoria e saneamento de contas no Entra ID, verificação de conformidade via Intune e documentação técnica para preparação de rollout do ServiceNow.
 
-⚡ **Curiosidade**  
-Adoro otimizar processos e encontrar soluções criativas para aumentar a produtividade!
+**Prefeitura Municipal de Duque de Caxias - Secretaria de Fazenda**
 
-🌐 Objetivo Estratégico
+Implantação e administração do GLPI para 200 usuários em 10 setores críticos, com redução de 30% no MTTR e 25% no FCR. Atuação com Linux, pfSense, redes, SQL, certificados digitais e dashboards de SLA/inventário.
 
-💼 Desenvolver e implementar soluções tecnológicas e baseadas em dados para otimizar processos e apoiar a transformação digital nas organizações.
+## Projetos no GitHub
 
+Este GitHub é usado como vitrine técnica complementar ao meu LinkedIn. Aqui registro estudos, provas de conceito, automações, dashboards e cases de organização técnica.
 
-🌟 Obrigado por visitar meu perfil! Explore meus projetos e vamos nos conectar...
+| Projeto | Objetivo | Tecnologias / Temas |
+| --- | --- | --- |
+| [projectADAE](https://github.com/87MarciaFonseca/projectADAE) | Case de transformação digital, presença institucional e organização técnica para a ADAE. | WordPress, HTML, CSS, JavaScript, Git, GitHub, documentação |
+| [clientes-db-dashboard](https://github.com/87MarciaFonseca/clientes-db-dashboard) | Dashboard para consulta e filtragem de dados de clientes. | Python, Streamlit, SQLite |
+| [AutoFlow](https://github.com/87MarciaFonseca/AutoFlow) | Estudo de automação de processos e ganho de produtividade. | Automação, processos |
+| [SecurityData-BI](https://github.com/87MarciaFonseca/SecurityData-BI) | Análise e monitoramento de segurança do trabalho e produtividade industrial. | Python, SQL, Power BI |
 
+## Como estou usando IA no meu fluxo técnico
+
+Tenho utilizado IA agêntica como apoio profissional para acelerar atividades de TI que exigem organização, documentação e controle de mudanças:
+
+- estruturação de repositórios e versionamento com Git/GitHub;
+- documentação técnica e README orientado a recrutadores e gestores;
+- revisão de escopo, rastreabilidade e padronização de entregas;
+- apoio na evolução de projetos com Codex e metodologia Superpowers;
+- uso de agentes como extensão do processo técnico, não como substituto da análise profissional.
+
+## Objetivo profissional
+
+Busco oportunidades como **Analista de TI**, **Analista de Suporte N2**, **Analista de Infraestrutura**, **Analista Microsoft 365 / IAM** ou funções de **Operações de TI com automação e dados**.
+
+Quero contribuir em times que valorizam confiabilidade operacional, segurança, documentação, melhoria contínua e uso prático de tecnologia para resolver problemas reais.
+
+## Contato
+
+- LinkedIn: [marcia-fonseca-b4975953](https://www.linkedin.com/in/marcia-fonseca-b4975953)
+- GitHub: [87MarciaFonseca](https://github.com/87MarciaFonseca)
+- E-mail: marcia.fonseca24@gmail.com
