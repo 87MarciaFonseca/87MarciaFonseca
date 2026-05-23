@@ -1,63 +1,123 @@
-# Marcia Fonseca
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0EA5E9,50:22C55E,100:8B5CF6&section=header&text=Marcia%20Fonseca&fontColor=ffffff&fontSize=34&fontAlignY=35&desc=IT%20Operations%20%7C%20Automation%20%7C%20Operational%20Data&descAlignY=58&animation=fadeIn" />
 
-**Analista de TI | Microsoft 365 | Entra ID | Intune | ITSM | Infraestrutura | Automação e Dados Operacionais**
+<div align="center">
 
-Sou Analista de TI com experiência em suporte N2, gestão de identidades Microsoft, infraestrutura, ITSM e melhoria contínua em ambientes de operação crítica. Minha atuação une sustentação técnica, organização de processos, documentação, segurança de acessos, automação e indicadores para dar mais rastreabilidade e confiabilidade às operações de TI.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=850&lines=IT+Analyst+focused+on+reliable+operations;Microsoft+365+%7C+Identity+%26+Access+%7C+ITSM;Automation%2C+documentation+and+operational+visibility;Practical+AI+for+technical+workflows)](https://git.io/typing-svg)
 
-Meu foco atual é atuar em ambientes corporativos que precisam estruturar suporte, identidades, dispositivos, processos ITSM, inventário, base de conhecimento e indicadores operacionais.
+</div>
 
-## Principais Frentes
+---
 
-- **Microsoft 365 e IAM:** Entra ID, MFA, Acesso Condicional, RBAC, onboarding e offboarding.
-- **Gestão de endpoints:** Microsoft Intune, conformidade de dispositivos, políticas e padronização.
-- **ITSM e suporte N2:** GLPI, ServiceNow, incidentes, SLA, MTTR, FCR, POPs e base de conhecimento.
-- **Infraestrutura e redes:** Windows Server, Linux, pfSense, VPN, VLANs, TCP/IP, DNS e DHCP.
-- **Monitoramento e dados:** Zabbix, Grafana, Power BI, dashboards de SLA, ativos e acessos.
-- **Automação:** Power Automate, rotinas Microsoft 365, documentação técnica e fluxos de aprovação.
+### Hi, I'm Marcia
 
-## Experiências que sustentam meu perfil
+I work with **IT operations, Microsoft 365, identity management, ITSM, infrastructure, automation and operational data**.
 
-**ADAE - Associação Duquecaxiense de Arquitetos e Engenheiros**
+My GitHub is where I organize technical studies, dashboards, automation ideas, documentation patterns and practical cases that connect IT support, governance and process improvement.
 
-Atuação em infraestrutura, Microsoft 365, identidades, comunicação digital, automação de rotinas e apoio à transformação digital da entidade.
+---
 
-**New Wave Tech - Projeto temporário**
+### What I Work With
 
-Auditoria e saneamento de contas no Entra ID, verificação de conformidade via Intune e documentação técnica para preparação de rollout do ServiceNow.
+<div align="center">
 
-**Prefeitura Municipal de Duque de Caxias - Secretaria de Fazenda**
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-16A085?style=for-the-badge&logo=servicenow&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-1F2937?style=for-the-badge&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CB1F2D?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 
-Implantação e administração do GLPI para 200 usuários em 10 setores críticos, com redução de 30% no MTTR e 25% no FCR. Atuação com Linux, pfSense, redes, SQL, certificados digitais e dashboards de SLA/inventário.
+</div>
 
-## Projetos no GitHub
+---
 
-Este GitHub é usado como vitrine técnica complementar ao meu LinkedIn. Aqui registro estudos, provas de conceito, automações, dashboards e cases de organização técnica.
+### Focus Areas
 
-| Projeto | Objetivo | Tecnologias / Temas |
-| --- | --- | --- |
-| [projectADAE](https://github.com/87MarciaFonseca/projectADAE) | Case de transformação digital, presença institucional e organização técnica para a ADAE. | WordPress, HTML, CSS, JavaScript, Git, GitHub, documentação |
-| [clientes-db-dashboard](https://github.com/87MarciaFonseca/clientes-db-dashboard) | Dashboard para consulta e filtragem de dados de clientes. | Python, Streamlit, SQLite |
-| [AutoFlow](https://github.com/87MarciaFonseca/AutoFlow) | Estudo de automação de processos e ganho de produtividade. | Automação, processos |
-| [SecurityData-BI](https://github.com/87MarciaFonseca/SecurityData-BI) | Análise e monitoramento de segurança do trabalho e produtividade industrial. | Python, SQL, Power BI |
+```text
+ITSM & Support      Incident flow, SLA, documentation, knowledge base
+Identity & Access   Entra ID, MFA, access reviews, onboarding/offboarding
+Automation          Power Automate, repeatable routines, approval flows
+Infrastructure      Windows Server, Linux, pfSense, networks, certificates
+Data Visibility     Power BI, dashboards, assets, access and SLA indicators
+AI Workflows        Codex, agentic workflows, technical documentation
+```
 
-## Como estou usando IA no meu fluxo técnico
+---
 
-Tenho utilizado IA agêntica como apoio profissional para acelerar atividades de TI que exigem organização, documentação e controle de mudanças:
+### Featured Projects
 
-- estruturação de repositórios e versionamento com Git/GitHub;
-- documentação técnica e README orientado a recrutadores e gestores;
-- revisão de escopo, rastreabilidade e padronização de entregas;
-- apoio na evolução de projetos com Codex e metodologia Superpowers;
-- uso de agentes como extensão do processo técnico, não como substituto da análise profissional.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>clientes-db-dashboard</h3>
+      <p>Dashboard for exploring and filtering customer data with a simple database workflow.</p>
+      <p><strong>Stack:</strong> Python, Streamlit, SQLite</p>
+      <a href="https://github.com/87MarciaFonseca/clientes-db-dashboard">View repository</a>
+    </td>
+    <td width="50%">
+      <h3>AutoFlow</h3>
+      <p>Automation study focused on reducing repetitive work and improving process consistency.</p>
+      <p><strong>Focus:</strong> automation, productivity, process design</p>
+      <a href="https://github.com/87MarciaFonseca/AutoFlow">View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>projectADAE</h3>
+      <p>Digital presence and technical organization case for an institutional WordPress project.</p>
+      <p><strong>Focus:</strong> documentation, Git/GitHub, web structure, IT process thinking</p>
+      <em>Public case version in progress</em>
+    </td>
+    <td width="50%">
+      <h3>SecurityData-BI</h3>
+      <p>Operational analysis idea connecting productivity, safety indicators and dashboards.</p>
+      <p><strong>Focus:</strong> SQL, Power BI, operational visibility</p>
+      <em>Private repository</em>
+    </td>
+  </tr>
+</table>
 
-## Objetivo profissional
+---
 
-Busco oportunidades como **Analista de TI**, **Analista de Suporte N2**, **Analista de Infraestrutura**, **Analista Microsoft 365 / IAM** ou funções de **Operações de TI com automação e dados**.
+### Currently Exploring
 
-Quero contribuir em times que valorizam confiabilidade operacional, segurança, documentação, melhoria contínua e uso prático de tecnologia para resolver problemas reais.
+- Agentic AI applied to IT documentation and change tracking
+- Better ways to turn support routines into reusable workflows
+- Dashboards that make operational decisions easier
+- GitHub as a living portfolio for IT operations, not only software development
 
-## Contato
+---
 
-- LinkedIn: [marcia-fonseca-b4975953](https://www.linkedin.com/in/marcia-fonseca-b4975953)
-- GitHub: [87MarciaFonseca](https://github.com/87MarciaFonseca)
-- E-mail: marcia.fonseca24@gmail.com
+### GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=87MarciaFonseca&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=87MarciaFonseca&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br />
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=87MarciaFonseca&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcia-fonseca-b4975953)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/87MarciaFonseca)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcia.fonseca24@gmail.com)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:8B5CF6,50:22C55E,100:0EA5E9&section=footer" />
